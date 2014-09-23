@@ -18,6 +18,10 @@ twitter:
   show_replies: false
   tweet_count: 5
 
+deploy:
+  type: github
+  repo: git@github.com:sea-star/blog.git
+
 addthis:
   enable: true
   pubid:
